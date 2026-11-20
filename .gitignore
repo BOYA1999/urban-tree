@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded inputs and generated analysis outputs
+/data/
+/results/
+/revision_*/data/
+/revision_*/results/
